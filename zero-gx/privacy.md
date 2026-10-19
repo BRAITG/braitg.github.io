@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Zero-GX Privacy Policy
+permalink: /zero-gx/privacy/
 ---
 
 # Zero-GX Privacy Policy (draft)
