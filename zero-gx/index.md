@@ -37,4 +37,4 @@ Zero-GX is in development. Test builds for Android are published on GitHub.
 
 On your phone, open the latest release, download `zero-gx.apk`, allow installs from the browser, and open the file.
 
-Source code: [github.com/BRAITG/zero-gx](https://github.com/BRAITG/zero-gx) · [Privacy policy]({{ '/zero-gx/privacy/' | relative_url }})
+Source code: [github.com/BRAITG/zero-gx](https://github.com/BRAITG/zero-gx) · [Privacy policy]({{ '/zero-gx/privacy/' | relative_url }}) · [Terms of service]({{ '/zero-gx/terms/' | relative_url }})
